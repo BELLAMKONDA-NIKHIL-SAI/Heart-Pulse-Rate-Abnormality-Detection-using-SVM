@@ -4,4 +4,6 @@ An SVM-based classification system to detect abnormal heart rate patterns from E
 
 **Technologies:** Python, Scikit-learn, NumPy, Matplotlib
 
-**Highlights:** Feature extraction, model tuning, accuracy and recall analysis.
+**Highlights:** Feature extraction, model tuning, accuracy, and recall analysis.
+
+**Data:** Kaggle Datasets
